@@ -1,0 +1,24 @@
+.container{
+    margin: 50px 0;
+}
+
+.card{
+    margin: 0 2% !important;
+}
+
+.infected{
+    background-color: rgba(194, 88, 22, 0.884) !important;
+color: #ffffff !important;
+}
+
+.recovered{
+    background-color: rgba(29, 148, 45, 0.726) !important;
+    color: #ffffff !important;
+ 
+}
+
+.deaths{
+    background-color: rgba(184, 32, 32, 0.87) !important;
+    color: #ffffff !important;
+
+}
